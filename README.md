@@ -1,2 +1,3 @@
 # ML_Basics
-You can find the datapreprocession, regression, classification , neural network implementation in python at this repo at branck master.
+You can find the datapreprocessing, regression, classification , neural network implementation in python at this repo at master branch .
+Also the datasets related to the file are attached.
